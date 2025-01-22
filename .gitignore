@@ -1,0 +1,14 @@
+# Ignore IDE configuration folders
+.idea/
+
+# Ignore XML files
+*.xml
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Log files
+*.log
